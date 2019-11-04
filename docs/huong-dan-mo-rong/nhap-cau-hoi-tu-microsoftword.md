@@ -55,6 +55,8 @@ Tải về phiên bản mới nhất và tiến hành cài đặt tại [http://
 
 ![](../images/test/cau-hoi-word- 1.png)
 
+(*)Lưu ý: Bạn có thể xóa thứ tự câu hỏi và đáp án trước hoặc sau khi chuyển qua **Toggle Tex**.
+
 Lúc này văn bản chuyển sang dạng như sau:
 
 ![](../images/test/cau-hoi-word-2.png)
